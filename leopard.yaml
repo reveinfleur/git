@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nora
 
+coach : Regit remote add origin https://github.com/reveinfleur/git.git
+
 members:
   - Linda
   - William
   - David
+  - Olivia
+  - Evie
